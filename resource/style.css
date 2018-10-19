@@ -1,7 +1,7 @@
 @media only screen and (min-width : 200px) {
 
 body {
-  background: #16161d;
+  background: #16161d !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;  
 }
