@@ -1,34 +1,35 @@
 @media only screen and (min-width : 200px) {
 
-body {
-  background: #16161d !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;  
-}
-
-pre {
-  color: #fff; 
-  width: 225px; 
-  text-align: center; 
-  margin: auto auto;
-  margin-top: 20%;
-}
-
-a {
-  color: #fff;
-  text-decoration: none;
-}
-
-}
-
-@media only screen and (min-width : 900px) {
-
-pre {
-  font-family: Andale Mono;
-  font-size: 12px;
-  width: 225px;   
-  margin: auto auto;
-  margin-top: 450px;
-}
-
-}
+  body {
+    background: #16161d !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: antialiased;  
+  }
+  
+  pre {
+    color: rgb(2, 72, 223); 
+    width: 225px; 
+    text-align: left; 
+    margin: auto auto;
+    margin-top: 70vh;
+  }
+  
+  a {
+    color: rgb(25, 96, 248); 
+    text-decoration: none;
+  }
+  
+  }
+  
+  @media only screen and (min-width : 900px) {
+  
+  pre {
+    font-family: Inconsolata;
+    font-size: 0.9em;
+    line-height: 16px;
+    width: 225px;   
+    margin: auto auto;  
+    margin-top: 70vh;
+  }
+  
+  }
