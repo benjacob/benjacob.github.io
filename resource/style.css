@@ -24,7 +24,7 @@
   @media only screen and (min-width : 900px) {
   
   pre {
-    font-family: Inconsolata;
+    font-family: "Inconsolata", monospace;
     font-size: 0.9em;
     line-height: 16px;
     width: 225px;   
